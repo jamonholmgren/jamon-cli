@@ -1,0 +1,14 @@
+{
+  "name": "jamonholmgren",
+  "version": "0.1.0",
+  "description": "Jamon's NPM bio!",
+  "main": "index.js",
+  "repository": "https://github.com/jamonholmgren/jamon-cli",
+  "author": "Jamon Holmgren",
+  "license": "All Rights Reserved",
+  "private": false,
+  "bin": {
+    "jamonholmgren": "./jamonholmgren",
+    "jamon-cli": "./jamonholmgren"
+  }
+}
